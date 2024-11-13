@@ -13,7 +13,7 @@ Adaptation of Automated Concept-based Explanation (ACE) XAI method to YOLOX obje
 
 # Download Pre-trained Model Weights
 
-You can download the pre-trained YOLOX model weights on GTSRB dataset from Google Drive:
+Download the pre-trained YOLOX model weights trained on the GTSRB dataset from Google Drive:
 
 https://drive.google.com/file/d/1qWQzuP0ovgXvaCUDM6SH8tiiExMJbeY1/view?usp=drive_link
 
