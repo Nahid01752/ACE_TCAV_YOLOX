@@ -1,12 +1,11 @@
 # ACE_TCAV_YOLOX
-Adaptation of Automated Concept-based Explanation (ACE) to YOLOX
+Adaptation of Automated Concept-based Explanation (ACE) XAI method to YOLOX object detection model
 
 # Python libraries
 - `torch`
 - `torchvision`
 - `scikit-image`
 - `matplotlib`
-- `collections`
 - `tcav`
 
 # Install YOLOX using its official GitHub repository:
